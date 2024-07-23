@@ -32,10 +32,10 @@
 					<author>Redação SpaceMoney</author>
 					<pubDate>Mon, 22 Jul 2024 19:02:29 +0000</pubDate>
 					<description><![CDATA[<p>O Nubank Cripto, plataforma de compra e venda de <a href="https://www.mycryptochannel.com.br/criptomoedas/">criptomoedas </a>integrada ao aplicativo do Nubank, registrou um crescimento de 1.500% no volume de transações entre março de 2023 e março de 2024.</p> <p>O número de clientes que utilizaram o Nubank Cripto ao menos uma vez nesse período também subiu. Assim, esse número alcançou um aumento de 56%, ultrapassando a marca de 4,2 milhões de usuários.</p> <p>Para aprimorar a experiência dos usuários, o Nubank Cripto implementa a funcionalidade de alerta de preços. Dessa forma, os clientes poderão acompanhar as flutuações do mercado e tomar decisões mais assertivas de compra ou venda.</p> <p>Através do Nubank Cripto, os usuários podem definir múltiplos alertas para as 14 criptomoedas disponíveis na plataforma, escolhendo entre três variações de preço (3%, 6% ou 9%) e um período de 24 horas.</p> <p>As notificações são enviadas diretamente no aplicativo, redirecionando os clientes para a tela de detalhes da criptomoeda, onde podem obter mais informações sobre a variação do mercado. “Os usuários poderão optar por sair do serviço a qualquer momento, garantindo controle total sobre suas preferências de notificação”, disse o banco.</p> <p>Em uma iniciativa recente, o Nubank Cripto permite o envio e recebimento de criptoativos diretamente de outras carteiras. Entre as empresas dessa ferramenta estão a Binance, Mercado Bitcoin, OKX, Coinbase e MetaMask. Atualmente, a solução permite movimentar Bitcoin, Ethereum e Solana, com a perspectiva de adicionar mais criptomoedas no futuro.</p>]]></description>
-													<category domain="tradingview:symbol"> BTC</category>
-																<category domain="tradingview:symbol"> ETH</category>
-																<category domain="tradingview:symbol"> SOL</category>
-																<category domain="tradingview:market"> crypto</category>
+													<category domain="tradingview:symbol">BTC</category>
+																<category domain="tradingview:symbol">ETH</category>
+																<category domain="tradingview:symbol">SOL</category>
+																<category domain="tradingview:market">crypto</category>
 												</item>
 							<item>
 					<guid>https://www.spacemoney.com.br/?p=408132</guid>
@@ -44,8 +44,8 @@
 					<author>Redação SpaceMoney</author>
 					<pubDate>Mon, 22 Jul 2024 18:42:37 +0000</pubDate>
 					<description><![CDATA[<p>A NYSE Arca, bolsa de valores norte-americana, confirmou a aprovação para listagem e negociação dos <a href="https://www.mycryptochannel.com.br/etfs/">ETFs </a>de Ethereum da Grayscale e Bitwise. A informação foi confirmada em documentos recentes arquivados na Comissão de Valores Mobiliários dos EUA (SEC).  </p> <p>Um documento semelhante foi enviado pela bolsa para o ETF Bitwise Ethereum.”A NYSE Arca certifica sua aprovação para listagem e registro das unidades comuns de interesse benéfico fracionário indiviso do Grayscale Ethereum Trust (ETH), sob o Exchange Act de 1934″, declarou a bolsa em um documento protocolado na SEC. </p> <p>Embora a aprovação da NYSE Arca seja um avanço importante, os emissores dos ETFs de Ethereum à vista ainda precisam aguardar a aprovação final da SEC para que as declarações de registro entrem em vigor. Essa etapa final faz parte de um processo de duas etapas iniciado em maio, quando a SEC aprovou os formulários 19b-4 para os ETFs. </p> <p>Analistas do mercado, como Eric Balchunas, Sênior de ETFs da Bloomberg, acreditam que as empresas solicitarão a efetivação da aprovação nesta segunda-feira (22). Balchunas e outras fontes também preveem que a negociação dos ETFs de Ethereum à vista possa começar na terça-feira (23). </p> <p>A Cboe Exchange, outra bolsa de valores norte-americana onde vários ETFs de Ethereum estão prontos para serem negociados, também divulgou na semana passada que a negociação desses produtos terá início na terça-feira.  </p> <p>Entre os ETFs que aguardam a aprovação final da SEC e a efetivação da listagem na Cboe estão o Fidelity Ethereum Fund, o Franklin Ethereum ETF, o Invesco Galaxy Ethereum ETF, o VanEck Ethereum ETF e o 21Shares Core Ethereum ETF. </p>]]></description>
-													<category domain="tradingview:symbol"> ETH</category>
-																<category domain="tradingview:market"> crypto</category>
+													<category domain="tradingview:symbol">ETH</category>
+																<category domain="tradingview:market">crypto</category>
 												</item>
 							<item>
 					<guid>https://www.spacemoney.com.br/?p=408128</guid>
@@ -54,10 +54,10 @@
 					<author>Redação SpaceMoney</author>
 					<pubDate>Mon, 22 Jul 2024 17:30:59 +0000</pubDate>
 					<description><![CDATA[<p>Em relatório divulgado nesta segunda-feira, 22 de julho, o UBS BB reiterou sua recomendação de compra para as ações de LWSA – ex-Locaweb (LWSA3).</p> <p>No material divulgado, os analistas Andre Salles e Leonardo Olmos destacaram o anúncio de um programa de recompra de ações que abrange 7,36% do total de papéis em circulação no mercado financeiro. </p> <p>LWSA teria recomprado 7,2 milhões de ações em junho, com um preço médio de R$ 4,37 por ação, o que movimentou R$ 31,4 milhões – 23,00% do limite de 31.000.000 de ações que podem ser readquiridas.</p> <p>Os analistas expressaram uma visão positiva em relação ao ritmo acelerado das recompras de ações pela LWSA, e destacam que isso evidencia uma estratégia consistente de alocação de capital externa para a própria empresa, que se afastaria de novas aquisições. </p> <p>Olmos e Salles observaram que as recompras realizadas apenas no primeiro mês já superam o volume total do programa anterior de recompra de 5 milhões de ações.</p>]]></description>
-													<category domain="tradingview:symbol"> BVMF:LWSA3</category>
-																<category domain="tradingview:market"> Stock</category>
-																<category domain="tradingview:section"> Markets</category>
-																<category domain="tradingview:urgency"> 1</category>
+													<category domain="tradingview:symbol">BVMF:LWSA3</category>
+																<category domain="tradingview:market">stock</category>
+																<category domain="tradingview:section">Markets</category>
+																<category domain="tradingview:urgency">1</category>
 												</item>
 							<item>
 					<guid>https://www.spacemoney.com.br/?p=408124</guid>
@@ -69,7 +69,7 @@
 													<category domain="tradingview:symbol"> BVMF:ROXO34</category>
 																<category domain="tradingview:market"> Stock</category>
 																<category domain="tradingview:section"> Markets</category>
-																<category domain="tradingview:urgency"> 2</category>
+																<category domain="tradingview:urgency">2</category>
 												</item>
 							<item>
 					<guid>https://www.spacemoney.com.br/?p=408119</guid>
@@ -94,7 +94,7 @@
 																<category domain="tradingview:symbol"> BVMF:PETR4</category>
 																<category domain="tradingview:market"> Stock</category>
 																<category domain="tradingview:section"> Markets</category>
-																<category domain="tradingview:urgency"> 1</category>
+																<category domain="tradingview:urgency">1</category>
 												</item>
 							<item>
 					<guid>https://www.spacemoney.com.br/?p=408110</guid>
