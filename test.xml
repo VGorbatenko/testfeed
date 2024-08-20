@@ -12,7 +12,7 @@
 					<guid>2222</guid>
 					<pubDate>Mon, 19 Aug 2024 15:15:56 +0000</pubDate>
 					<description> Testfeed STATIC1 </description>
-					<category domain="tradingview:symbol">SIMULATED:STATIC1</category>
+					<category domain="tradingview:symbol">SIMULATED:CONST1</category>
 									</item>
 							<item>
 					<title>DENSETICKS</title>
