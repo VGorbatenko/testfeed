@@ -8,6 +8,13 @@
 		<generator>6.5.5</generator>
 
 							<item>
+					<title>OPEN_DELAY</title>
+					<guid>2219</guid>
+					<pubDate>Mon, 19 Aug 2024 15:17:55 +0000</pubDate>
+					<description> Testfeed OPEN_EOD </description>
+					<category domain="tradingview:symbol">SIMULATED:OPEN_DELAY</category>
+									</item>
+							<item>
 					<title>OPEN_EOD</title>
 					<guid>2220</guid>
 					<pubDate>Mon, 19 Aug 2024 15:16:55 +0000</pubDate>
