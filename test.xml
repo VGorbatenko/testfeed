@@ -8,10 +8,10 @@
 		<generator>6.5.5</generator>
 
 							<item>
-					<title>STATIC1</title>
+					<title>CONST1</title>
 					<guid>2222</guid>
 					<pubDate>Mon, 19 Aug 2024 15:15:56 +0000</pubDate>
-					<description> Testfeed STATIC1 </description>
+					<description> Testfeed CONST1 </description>
 					<category domain="tradingview:symbol">SIMULATED:CONST1</category>
 									</item>
 							<item>
