@@ -2,8 +2,8 @@
 <channel>
 <item>
 <title>Testfeednewsinsider_trading 3</title>
-<guid>0203</guid>
-<pubDate>Wed, 07 Feb 2024 13:15:56 +0000</pubDate>
+<guid>2221</guid>
+<pubDate>Mon, 19 Aug 2024 15:15:56 +0000</pubDate>
 <description>OPEN_EOD</description>
 <category domain="tradingview:symbol">SIMULATED:OPEN_EOD</category>
 <category domain="tradingview:market">stock</category>
@@ -12,8 +12,8 @@
 </item>
 <item>
 <title>DENSETICKS</title>
-<guid>0204</guid>
-<pubDate>Wed, 07 Feb 2024 13:14:56 +0000</pubDate>
+<guid>2222</guid>
+<pubDate>Mon, 19 Aug 2024 15:14:56 +0000</pubDate>
 <description> Testfeed test news esg 3333 </description>
 <category domain="tradingview:symbol">SIMULATED:DENSETICKS</category>
 <category domain="tradingview:market">stock</category>
@@ -21,8 +21,8 @@
 </item>
 <item>
 <title>LOWPROBLEM</title>
-<guid>0205</guid>
-<pubDate>Wed, 07 Feb 2024 13:13:56 +0000</pubDate>
+<guid>2223</guid>
+<pubDate>Mon, 19 Aug 2024 15:13:56 +0000</pubDate>
 <description> Testfeed test news recommendation 3333 </description>
 <category domain="tradingview:symbol">SIMULATED:LOWPROBLEM</category>
 <category domain="tradingview:market">stock</category>
@@ -33,9 +33,9 @@
 <description>
 <![CDATA[ <p>Shareholder Kathleen Mowry, a 10% owner of Alliance Resource Partners LP, has reported a sale of 34,492 Common Units. The total sale amount was $691,571, with each share sold at a price of $20.0502. Following the transaction, Kathleen Mowry now directly owns 16,167,865 Common Units of Alliance Resource Partners LP.</p> ]]>
 </description>
-<guid isPermaLink="false">2146bef7f07098a0dbc2f4dc840f00ce61eb30d249383e7837e6f091f699114b</guid>
+<guid isPermaLink="false">2224bef7f07098a0dbc2f4dc840f00ce61eb30d249383e7837e6f091f699114b</guid>
 <category domain="tradingview:symbol">SIMULATED:PREMARKET</category>
-<pubDate>Wed, 07 Feb 2024 13:12:56 +0000</pubDate>
+<pubDate>Mon, 19 Aug 2024 15:12:56 +0000</pubDate>
 </item>
 </channel>
 </rss>
