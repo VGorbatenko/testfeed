@@ -9,7 +9,25 @@
 		<lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate>
 		<generator>6.5.5</generator>
 
-						<item>
+							<item>
+					<title>DENSETICKS</title>
+					<guid>2222</guid>
+					<pubDate>Mon, 19 Aug 2024 15:14:56 +0000</pubDate>
+					<description> Testfeed test news esg 3333 </description>
+					<category domain="tradingview:symbol">SIMULATED:DENSETICKS</category>
+					<category domain="tradingview:market">stock</category>
+					<category domain="tradingview:section">esg</category>
+									</item>
+							<item>
+					<title>LOWPROBLEM</title>
+					<guid>2223</guid>
+					<pubDate>Mon, 19 Aug 2024 15:13:56 +0000</pubDate>
+					<description> Testfeed test news recommendation 3333 </description>
+					<category domain="tradingview:symbol">SIMULATED:LOWPROBLEM</category>
+					<category domain="tradingview:market">stock</category>
+					<category domain="tradingview:section">recommendation</category>
+									</item>				
+							<item>
 					<guid>https://www.spacemoney.com.br/?p=408006</guid>
 					<title>IBOVESPA HOJE &#8211; O que você precisa saber para investir nesta 2ª</title>
 					<link>https://www.spacemoney.com.br/investimentos/acoes/ibovespa-hoje/ibovespa-hoje-o-que-voce-precisa-saber-para-investir-nesta-segunda-feira-2207/</link>
