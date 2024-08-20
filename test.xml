@@ -2,13 +2,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0">
 	<channel>
 		<title>SpaceMoney</title>
-		<link>https://www.spacemoney.com.br/</link>
-		<description>SpaceMoney - Educação e Soluções Financeiras</description>
 		<language></language>
-		<pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-		<lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate>
+		<pubDate>19 Aug 2024 15:15:58 +0000</pubDate>
+		<lastBuildDate>19 Aug 2024 15:15:58 +0000</lastBuildDate>
 		<generator>6.5.5</generator>
 
+							<item>
+					<title>STATIC1</title>
+					<guid>2222</guid>
+					<pubDate>Mon, 19 Aug 2024 15:15:56 +0000</pubDate>
+					<description> Testfeed STATIC1 </description>
+					<category domain="tradingview:symbol">SIMULATED:STATIC1</category>
+									</item>
 							<item>
 					<title>DENSETICKS</title>
 					<guid>2222</guid>
