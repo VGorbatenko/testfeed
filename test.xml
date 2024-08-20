@@ -3,10 +3,17 @@
 	<channel>
 		<title>SpaceMoney</title>
 		<language></language>
-		<pubDate>19 Aug 2024 15:15:58 +0000</pubDate>
-		<lastBuildDate>19 Aug 2024 15:15:58 +0000</lastBuildDate>
+		<pubDate>19 Aug 2024 15:20:58 +0000</pubDate>
+		<lastBuildDate>19 Aug 2024 15:20:58 +0000</lastBuildDate>
 		<generator>6.5.5</generator>
 
+							<item>
+					<title>OPEN_EOD</title>
+					<guid>2220</guid>
+					<pubDate>Mon, 19 Aug 2024 15:16:55 +0000</pubDate>
+					<description> Testfeed OPEN_EOD </description>
+					<category domain="tradingview:symbol">SIMULATED:OPEN_EOD</category>
+									</item>
 							<item>
 					<title>CONST1</title>
 					<guid>2221</guid>
