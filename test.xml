@@ -3,20 +3,22 @@
 	<channel>
 		<title>SpaceMoney</title>
 		<language></language>
-		<pubDate>Fri, 30 Aug 2024 02:29:58 +0000</pubDate>
-		<lastBuildDate>Fri, 30 Aug 2024 02:39:58 +0000</lastBuildDate>
+		<pubDate>Fri, 30 Aug 2024 02:30:58 +0000</pubDate>
+		<lastBuildDate>Fri, 30 Aug 2024 02:40:58 +0000</lastBuildDate>
 		<generator>6.5.5</generator>
 
 		<item>
-		<title>TEST only categorii</title>
-		<description> TESTTEST Category</description>
-		<pubDate>Fri, 30 Aug 2024 02:29:58 +0000</pubDate>
+		<title>TEST only categorii plus futures </title>
+		<description> TEST Category</description>
+		<pubDate>Fri, 30 Aug 2024 02:30:58 +0000</pubDate>
 		<feature_image>https://www.arabictrader.com/cdn/atcop/imgs/2021/Dec/135337-الذهب5.jpg</feature_image>
 		<category>النفط والمعادن</category>
-		<guid isPermaLink="false">atnid-140944</guid>
+		<guid isPermaLink="false">atnid-140945</guid>
 		<category domain="tradingview:symbol">MOEX:GAZP</category>
 		<category domain="tradingview:symbol">MOEX:BANEP</category>
-		<category domain="tradingview:symbol">MOEX:SBER</category>
+		<category domain="tradingview:symbol">MOEX:SBERP</category>
+		<category domain="tradingview:symbol">MOEX:IMOEX</category>
+		<category domain="tradingview:symbol">MOEX:RIZ4</category>
 		</item>
 		
 		<item>
