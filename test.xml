@@ -8,7 +8,7 @@
 		<generator>6.5.5</generator>
 
 <item>
-		<title><Test categories and body></title>
+		<title><Testfeed categories and body></title>
 		<description><![CDATA[<p dir="RTL" style="text-align:شهدت أسعار تراجعا في حيازاته من MOEX:SBER ALOR:SBERP الذهب بنسبة 0.2% خلال تعاملات أمس، لتنخفض إلى 903.46 طنا.</p>]]></description>
 								<link>https://www.arabictrader.com/ar/news/details/140943</link>
 								<pubDate>Fri, 30 Aug 2024 02:21:58 +0000</pubDate>
@@ -18,6 +18,7 @@
 								<category domain="tradingview:symbol">FX:XAUUSD</category>
 								<category domain="tradingview:symbol">MOEX:GAZP</category>
 								<category domain="tradingview:symbol">ALOR:SIBN</category>
+								<category domain="tradingview:symbol">ALOR:LKOH</category>
 							</item>
 
 		
@@ -57,15 +58,6 @@
 								<guid isPermaLink="false">atnid-140943</guid>
 								<category domain="tradingview:symbol">FX:XAUUSD</category>
 							</item>							
-							<item>
-					<guid>https://www.spacemoney.com.br/?p=408101</guid>
-					<title>Bitcoin (BTC) supera os US$ 68 mil impulsionado por ETFs e cenário político dos EUA</title>
-					<link>https://www.spacemoney.com.br/noticias/bitcoin-supera-us-68mil-etfs-cenario-politico/</link>
-					<author>Redação SpaceMoney</author>
-					<pubDate>Mon, 22 Jul 2024 14:03:45 +0000</pubDate>
-					<description><![CDATA[<p>O <a href="https://www.mycryptochannel.com.br/bitcoin/">Bitcoin </a>(BTC) segue em alta e superou a marca de US$ 68 mil nas últimas 24 horas, impulsionado por diversos fatores. O crescimento dos ETFs de Bitcoin, a expectativa pelo lançamento de ETFs de Ethereum e a desistência do presidente dos EUA, Joe Biden, de concorrer à reeleição, influenciaram a valorização da criptomoedas.  </p> <p>Um dos principais motivos para esse progresso do Bitcoin é o fluxo de capital em ETFs de Bitcoin. Segundo Rachael Lucas, analista de criptomoedas da BTC Markets, os fundos negociados em bolsa de Bitcoin dos EUA registraram 11 dias consecutivos de entradas positivas. O IBIT da BlackRock acumula quase US$ 19 bilhões em fluxos líquidos desde o início do ano. </p> <p>“No total, o mercado testemunhou entradas líquidas recordes que ultrapassaram US$ 17 bilhões, refletindo o aumento do interesse institucional e da confiança no Bitcoin como uma classe de ativos”, destacou Lucas. </p> <p>Outro fator que contribui para o otimismo do mercado é a chegada dos primeiros ETFs de Ethereum nos EUA. A Cboe, exchange americana, anunciou que a listagem dos fundos está prevista para terça-feira, 23 de julho.  </p> <p>Entre os ETFs a serem listados estão o Fidelity Ethereum (ETH), o Franklin Ethereum ETF, o Invesco Galaxy Ethereum ETF, o VanEck Ethereum ETF e o 21Shares Core Ethereum ETF. </p> <p>Além disso, a decisão do presidente dos EUA, <a href="https://www.spacemoney.com.br/economia/dolar-hoje/dolar-hoje-22072024-dessitencia-biden-reeleicao/">Joe Biden</a>, de não concorrer à reeleição em novembro também é vista como um fator positivo para o Bitcoin. Acredita-se que a vitória de um candidato republicano pró-criptomoedas, como Donald Trump, possa impulsionar o mercado de criptomoedas. </p> <p>Nesta segunda-feira (22), o BTC é negociado a US$ 67 mil com avanços de 0,41% nas últimas horas. Segundo cotação do CoinMarketCao, o ativo avançou 6,6% na semana. </p> <p>Por outro lado, a recente venda de 50 mil BTC pelo governo alemão removeu uma pressão de venda significativa do mercado, o que contribuiu para a valorização do Bitcoin. </p>]]></description>
-													<category domain="tradingview:symbol"> BTC</category>
-																<category domain="tradingview:market"> crypto</category>
-												</item>
+							
 				</channel>
 </rss>
